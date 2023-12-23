@@ -1,0 +1,11 @@
+# python generated files
+/src/**/__pycache__/
+
+# ply generated files
+/src/**/parser.out
+/src/**/parsetab.py
+
+# program generated files
+/output
+/ami
+*.ami
